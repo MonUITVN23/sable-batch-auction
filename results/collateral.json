@@ -1,0 +1,148 @@
+{
+ "tick": "1/8",
+ "rows": [
+  {
+   "c_max": "10",
+   "action": [
+    1,
+    2,
+    32
+   ],
+   "E_pi": "1/2",
+   "C_imm": "0",
+   "E_G": "1/2",
+   "p_minus": 32,
+   "notional_of_action": "8"
+  },
+  {
+   "c_max": "20",
+   "action": [
+    1,
+    5,
+    32
+   ],
+   "E_pi": "5/4",
+   "C_imm": "0",
+   "E_G": "5/4",
+   "p_minus": 33,
+   "notional_of_action": "20"
+  },
+  {
+   "c_max": "30",
+   "action": [
+    1,
+    7,
+    32
+   ],
+   "E_pi": "7/4",
+   "C_imm": "0",
+   "E_G": "7/4",
+   "p_minus": 33,
+   "notional_of_action": "28"
+  },
+  {
+   "c_max": "40",
+   "action": [
+    1,
+    9,
+    32
+   ],
+   "E_pi": "9/4",
+   "C_imm": "0",
+   "E_G": "9/4",
+   "p_minus": 33,
+   "notional_of_action": "36"
+  },
+  {
+   "c_max": "50",
+   "action": [
+    1,
+    9,
+    32
+   ],
+   "E_pi": "9/4",
+   "C_imm": "0",
+   "E_G": "9/4",
+   "p_minus": 33,
+   "notional_of_action": "36"
+  },
+  {
+   "c_max": "60",
+   "action": [
+    1,
+    9,
+    32
+   ],
+   "E_pi": "9/4",
+   "C_imm": "0",
+   "E_G": "9/4",
+   "p_minus": 33,
+   "notional_of_action": "36"
+  },
+  {
+   "c_max": "243/4",
+   "action": [
+    1,
+    9,
+    54
+   ],
+   "E_pi": "99/4",
+   "C_imm": "99/4",
+   "E_G": "0",
+   "p_minus": 54,
+   "notional_of_action": "243/4"
+  },
+  {
+   "c_max": "61",
+   "action": [
+    1,
+    9,
+    54
+   ],
+   "E_pi": "99/4",
+   "C_imm": "99/4",
+   "E_G": "0",
+   "p_minus": 54,
+   "notional_of_action": "243/4"
+  },
+  {
+   "c_max": "135/2",
+   "action": [
+    1,
+    10,
+    54
+   ],
+   "E_pi": "105/4",
+   "C_imm": "105/4",
+   "E_G": "0",
+   "p_minus": 54,
+   "notional_of_action": "135/2"
+  },
+  {
+   "c_max": "70",
+   "action": [
+    1,
+    10,
+    54
+   ],
+   "E_pi": "105/4",
+   "C_imm": "105/4",
+   "E_G": "0",
+   "p_minus": 54,
+   "notional_of_action": "135/2"
+  },
+  {
+   "c_max": "100",
+   "action": [
+    1,
+    10,
+    54
+   ],
+   "E_pi": "105/4",
+   "C_imm": "105/4",
+   "E_G": "0",
+   "p_minus": 54,
+   "notional_of_action": "135/2"
+  }
+ ]
+}

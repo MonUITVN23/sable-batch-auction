@@ -1,0 +1,74 @@
+{
+ "clearing": {
+  "E": {
+   "price": 5,
+   "fills": {
+    "B1": 3,
+    "S1": 3
+   }
+  },
+  "E+A": {
+   "price": 5,
+   "fills": {
+    "B1": 3,
+    "S1": 3,
+    "ADV": 0
+   }
+  },
+  "E+v": {
+   "price": 6,
+   "fills": {
+    "V": 3,
+    "S1": 3,
+    "B1": 0
+   }
+  },
+  "E+v+A": {
+   "price": 8,
+   "fills": {
+    "V": 4,
+    "S1": 3,
+    "ADV": 1,
+    "B1": 0
+   }
+  },
+  "E+v+A collar 1": {
+   "price": 6,
+   "fills": {
+    "V": 3,
+    "S1": 3,
+    "B1": 0,
+    "ADV": 0
+   }
+  }
+ },
+ "dQ": -1,
+ "C_imm": "3",
+ "E_pi": "3",
+ "E_G": "0",
+ "E_G_pos": "1/2",
+ "L_v": "12",
+ "optimum": {
+  "action": [
+   -1,
+   1,
+   8
+  ],
+  "E_pi": "3"
+ },
+ "optimum_collar1": {
+  "action": [
+   -1,
+   1,
+   1
+  ],
+  "E_pi": "1",
+  "C_imm": "1",
+  "L_v": "4"
+ },
+ "delta_E": 0,
+ "delta_Ev": 2,
+ "Delta_v": 1,
+ "resilience_bound": "6",
+ "collar_bound_B1": "6"
+}

@@ -1,0 +1,184 @@
+{
+ "books": 25,
+ "exhaustive": 15,
+ "sampled": 10,
+ "permutations": 72450,
+ "differences": 0,
+ "rows": [
+  {
+   "book": 0,
+   "n": 9,
+   "mode": "sampled",
+   "permutations": 5040,
+   "differences": 0
+  },
+  {
+   "book": 1,
+   "n": 9,
+   "mode": "sampled",
+   "permutations": 5040,
+   "differences": 0
+  },
+  {
+   "book": 2,
+   "n": 5,
+   "mode": "exhaustive",
+   "permutations": 120,
+   "differences": 0
+  },
+  {
+   "book": 3,
+   "n": 7,
+   "mode": "exhaustive",
+   "permutations": 5040,
+   "differences": 0
+  },
+  {
+   "book": 4,
+   "n": 3,
+   "mode": "exhaustive",
+   "permutations": 6,
+   "differences": 0
+  },
+  {
+   "book": 5,
+   "n": 6,
+   "mode": "exhaustive",
+   "permutations": 720,
+   "differences": 0
+  },
+  {
+   "book": 6,
+   "n": 6,
+   "mode": "exhaustive",
+   "permutations": 720,
+   "differences": 0
+  },
+  {
+   "book": 7,
+   "n": 8,
+   "mode": "sampled",
+   "permutations": 5040,
+   "differences": 0
+  },
+  {
+   "book": 8,
+   "n": 8,
+   "mode": "sampled",
+   "permutations": 5040,
+   "differences": 0
+  },
+  {
+   "book": 9,
+   "n": 9,
+   "mode": "sampled",
+   "permutations": 5040,
+   "differences": 0
+  },
+  {
+   "book": 10,
+   "n": 7,
+   "mode": "exhaustive",
+   "permutations": 5040,
+   "differences": 0
+  },
+  {
+   "book": 11,
+   "n": 9,
+   "mode": "sampled",
+   "permutations": 5040,
+   "differences": 0
+  },
+  {
+   "book": 12,
+   "n": 8,
+   "mode": "sampled",
+   "permutations": 5040,
+   "differences": 0
+  },
+  {
+   "book": 13,
+   "n": 5,
+   "mode": "exhaustive",
+   "permutations": 120,
+   "differences": 0
+  },
+  {
+   "book": 14,
+   "n": 4,
+   "mode": "exhaustive",
+   "permutations": 24,
+   "differences": 0
+  },
+  {
+   "book": 15,
+   "n": 7,
+   "mode": "exhaustive",
+   "permutations": 5040,
+   "differences": 0
+  },
+  {
+   "book": 16,
+   "n": 7,
+   "mode": "exhaustive",
+   "permutations": 5040,
+   "differences": 0
+  },
+  {
+   "book": 17,
+   "n": 4,
+   "mode": "exhaustive",
+   "permutations": 24,
+   "differences": 0
+  },
+  {
+   "book": 18,
+   "n": 9,
+   "mode": "sampled",
+   "permutations": 5040,
+   "differences": 0
+  },
+  {
+   "book": 19,
+   "n": 9,
+   "mode": "sampled",
+   "permutations": 5040,
+   "differences": 0
+  },
+  {
+   "book": 20,
+   "n": 3,
+   "mode": "exhaustive",
+   "permutations": 6,
+   "differences": 0
+  },
+  {
+   "book": 21,
+   "n": 3,
+   "mode": "exhaustive",
+   "permutations": 6,
+   "differences": 0
+  },
+  {
+   "book": 22,
+   "n": 8,
+   "mode": "sampled",
+   "permutations": 5040,
+   "differences": 0
+  },
+  {
+   "book": 23,
+   "n": 5,
+   "mode": "exhaustive",
+   "permutations": 120,
+   "differences": 0
+  },
+  {
+   "book": 24,
+   "n": 4,
+   "mode": "exhaustive",
+   "permutations": 24,
+   "differences": 0
+  }
+ ]
+}

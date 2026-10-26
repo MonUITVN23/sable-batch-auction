@@ -1,0 +1,234 @@
+{
+ "books": {
+  "thin (near 1)": {
+   "1/32": {
+    "q_star_delta": 5,
+    "switch_cap": 7,
+    "first_cap_with_positive_C": 7,
+    "share_C_at_10": 1.0,
+    "C_imm_at_10": "105/16",
+    "E_G_at_10": "0",
+    "E_pi_at_10": "105/16",
+    "sign_C_at_10": 1,
+    "drift_per_unit": "1/4",
+    "tick_price": "1/32"
+   },
+   "1/16": {
+    "q_star_delta": 5,
+    "switch_cap": 7,
+    "first_cap_with_positive_C": 7,
+    "share_C_at_10": 1.0,
+    "C_imm_at_10": "105/8",
+    "E_G_at_10": "0",
+    "E_pi_at_10": "105/8",
+    "sign_C_at_10": 1,
+    "drift_per_unit": "1/4",
+    "tick_price": "1/16"
+   },
+   "1/8": {
+    "q_star_delta": 5,
+    "switch_cap": 7,
+    "first_cap_with_positive_C": 7,
+    "share_C_at_10": 1.0,
+    "C_imm_at_10": "105/4",
+    "E_G_at_10": "0",
+    "E_pi_at_10": "105/4",
+    "sign_C_at_10": 1,
+    "drift_per_unit": "1/4",
+    "tick_price": "1/8"
+   },
+   "1/4": {
+    "q_star_delta": 5,
+    "switch_cap": 6,
+    "first_cap_with_positive_C": 6,
+    "share_C_at_10": 1.0,
+    "C_imm_at_10": "105/2",
+    "E_G_at_10": "0",
+    "E_pi_at_10": "105/2",
+    "sign_C_at_10": 1,
+    "drift_per_unit": "1/4",
+    "tick_price": "1/4"
+   },
+   "1/2": {
+    "q_star_delta": 5,
+    "switch_cap": 1,
+    "first_cap_with_positive_C": 1,
+    "share_C_at_10": 1.0,
+    "C_imm_at_10": "105",
+    "E_G_at_10": "0",
+    "E_pi_at_10": "105",
+    "sign_C_at_10": 1,
+    "drift_per_unit": "1/4",
+    "tick_price": "1/2"
+   },
+   "1": {
+    "q_star_delta": 5,
+    "switch_cap": 1,
+    "first_cap_with_positive_C": 1,
+    "share_C_at_10": 1.0,
+    "C_imm_at_10": "210",
+    "E_G_at_10": "0",
+    "E_pi_at_10": "210",
+    "sign_C_at_10": 1,
+    "drift_per_unit": "1/4",
+    "tick_price": "1"
+   }
+  },
+  "baseline (near 3)": {
+   "1/32": {
+    "q_star_delta": 5,
+    "switch_cap": 9,
+    "first_cap_with_positive_C": 9,
+    "share_C_at_10": 1.0,
+    "C_imm_at_10": "105/16",
+    "E_G_at_10": "0",
+    "E_pi_at_10": "105/16",
+    "sign_C_at_10": 1,
+    "drift_per_unit": "1/4",
+    "tick_price": "1/32"
+   },
+   "1/16": {
+    "q_star_delta": 5,
+    "switch_cap": 9,
+    "first_cap_with_positive_C": 9,
+    "share_C_at_10": 1.0,
+    "C_imm_at_10": "105/8",
+    "E_G_at_10": "0",
+    "E_pi_at_10": "105/8",
+    "sign_C_at_10": 1,
+    "drift_per_unit": "1/4",
+    "tick_price": "1/16"
+   },
+   "1/8": {
+    "q_star_delta": 5,
+    "switch_cap": 9,
+    "first_cap_with_positive_C": 9,
+    "share_C_at_10": 1.0,
+    "C_imm_at_10": "105/4",
+    "E_G_at_10": "0",
+    "E_pi_at_10": "105/4",
+    "sign_C_at_10": 1,
+    "drift_per_unit": "1/4",
+    "tick_price": "1/8"
+   },
+   "1/4": {
+    "q_star_delta": 5,
+    "switch_cap": 8,
+    "first_cap_with_positive_C": 8,
+    "share_C_at_10": 1.0,
+    "C_imm_at_10": "105/2",
+    "E_G_at_10": "0",
+    "E_pi_at_10": "105/2",
+    "sign_C_at_10": 1,
+    "drift_per_unit": "1/4",
+    "tick_price": "1/4"
+   },
+   "1/2": {
+    "q_star_delta": 5,
+    "switch_cap": 1,
+    "first_cap_with_positive_C": 1,
+    "share_C_at_10": 1.0,
+    "C_imm_at_10": "105",
+    "E_G_at_10": "0",
+    "E_pi_at_10": "105",
+    "sign_C_at_10": 1,
+    "drift_per_unit": "1/4",
+    "tick_price": "1/2"
+   },
+   "1": {
+    "q_star_delta": 5,
+    "switch_cap": 1,
+    "first_cap_with_positive_C": 1,
+    "share_C_at_10": 1.0,
+    "C_imm_at_10": "210",
+    "E_G_at_10": "0",
+    "E_pi_at_10": "210",
+    "sign_C_at_10": 1,
+    "drift_per_unit": "1/4",
+    "tick_price": "1"
+   }
+  },
+  "deep (near 6)": {
+   "1/32": {
+    "q_star_delta": 5,
+    "switch_cap": null,
+    "first_cap_with_positive_C": null,
+    "share_C_at_10": 0.0,
+    "C_imm_at_10": "0",
+    "E_G_at_10": "9/4",
+    "E_pi_at_10": "9/4",
+    "sign_C_at_10": 0,
+    "drift_per_unit": "1/4",
+    "tick_price": "1/32"
+   },
+   "1/16": {
+    "q_star_delta": 5,
+    "switch_cap": null,
+    "first_cap_with_positive_C": null,
+    "share_C_at_10": 0.0,
+    "C_imm_at_10": "0",
+    "E_G_at_10": "9/4",
+    "E_pi_at_10": "9/4",
+    "sign_C_at_10": 0,
+    "drift_per_unit": "1/4",
+    "tick_price": "1/16"
+   },
+   "1/8": {
+    "q_star_delta": 5,
+    "switch_cap": null,
+    "first_cap_with_positive_C": null,
+    "share_C_at_10": 0.0,
+    "C_imm_at_10": "0",
+    "E_G_at_10": "9/4",
+    "E_pi_at_10": "9/4",
+    "sign_C_at_10": 0,
+    "drift_per_unit": "1/4",
+    "tick_price": "1/8"
+   },
+   "1/4": {
+    "q_star_delta": 5,
+    "switch_cap": null,
+    "first_cap_with_positive_C": null,
+    "share_C_at_10": 0.0,
+    "C_imm_at_10": "0",
+    "E_G_at_10": "9/4",
+    "E_pi_at_10": "9/4",
+    "sign_C_at_10": 0,
+    "drift_per_unit": "1/4",
+    "tick_price": "1/4"
+   },
+   "1/2": {
+    "q_star_delta": 5,
+    "switch_cap": 1,
+    "first_cap_with_positive_C": 1,
+    "share_C_at_10": 1.0,
+    "C_imm_at_10": "9/2",
+    "E_G_at_10": "0",
+    "E_pi_at_10": "9/2",
+    "sign_C_at_10": 1,
+    "drift_per_unit": "1/4",
+    "tick_price": "1/2"
+   },
+   "1": {
+    "q_star_delta": 5,
+    "switch_cap": 1,
+    "first_cap_with_positive_C": 1,
+    "share_C_at_10": 1.0,
+    "C_imm_at_10": "9",
+    "E_G_at_10": "0",
+    "E_pi_at_10": "9",
+    "sign_C_at_10": 1,
+    "drift_per_unit": "1/4",
+    "tick_price": "1"
+   }
+  }
+ },
+ "scales": [
+  "1/32",
+  "1/16",
+  "1/8",
+  "1/4",
+  "1/2",
+  "1"
+ ]
+}

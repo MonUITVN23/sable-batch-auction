@@ -1,0 +1,55 @@
+{
+ "q_max": 8,
+ "mu_h": "1/2",
+ "sigma2_h": "9/4",
+ "rows": {
+  "inside (baseline)": {
+   "mean": "1/4",
+   "var": "19/16",
+   "inside_envelope": true,
+   "dQ": 8,
+   "E_G": "2",
+   "signed_bound": "4",
+   "E_G_pos": "4",
+   "tail_bound": 8.32455532033676,
+   "respects_signed": true,
+   "respects_tail": true
+  },
+  "on the envelope": {
+   "mean": "1/2",
+   "var": "9/4",
+   "inside_envelope": true,
+   "dQ": 8,
+   "E_G": "4",
+   "signed_bound": "4",
+   "E_G_pos": "8",
+   "tail_bound": 8.32455532033676,
+   "respects_signed": true,
+   "respects_tail": true
+  },
+  "violates drift": {
+   "mean": "1",
+   "var": "4",
+   "inside_envelope": false,
+   "dQ": 8,
+   "E_G": "8",
+   "signed_bound": "4",
+   "E_G_pos": "12",
+   "tail_bound": 8.32455532033676,
+   "respects_signed": false,
+   "respects_tail": false
+  },
+  "violates variance only": {
+   "mean": "1/2",
+   "var": "27/4",
+   "inside_envelope": false,
+   "dQ": 8,
+   "E_G": "4",
+   "signed_bound": "4",
+   "E_G_pos": "10",
+   "tail_bound": 8.32455532033676,
+   "respects_signed": true,
+   "respects_tail": false
+  }
+ }
+}

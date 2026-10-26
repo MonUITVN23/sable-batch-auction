@@ -1,0 +1,91 @@
+{
+ "q_max": 8,
+ "signed_bound": "2",
+ "victim": "sell 6 at the reference",
+ "rows": {
+  "thin": {
+   "hidden": {
+    "action": [
+     1,
+     6,
+     32
+    ],
+    "E_G": "3/2",
+    "dQ": 6,
+    "within_bound": true
+   },
+   "leaky": {
+    "action_plus": [
+     1,
+     8,
+     34
+    ],
+    "action_minus": [
+     -1,
+     2,
+     1
+    ],
+    "E_G": "5/2",
+    "dQ": 10,
+    "within_bound": false
+   },
+   "excess_over_bound": "1/2"
+  },
+  "balanced": {
+   "hidden": {
+    "action": [
+     1,
+     6,
+     32
+    ],
+    "E_G": "3/2",
+    "dQ": 6,
+    "within_bound": true
+   },
+   "leaky": {
+    "action_plus": [
+     1,
+     8,
+     33
+    ],
+    "action_minus": [
+     -1,
+     5,
+     1
+    ],
+    "E_G": "13/4",
+    "dQ": 13,
+    "within_bound": false
+   },
+   "excess_over_bound": "5/4"
+  },
+  "deep": {
+   "hidden": {
+    "action": [
+     1,
+     6,
+     32
+    ],
+    "E_G": "3/2",
+    "dQ": 6,
+    "within_bound": true
+   },
+   "leaky": {
+    "action_plus": [
+     1,
+     8,
+     33
+    ],
+    "action_minus": [
+     -1,
+     8,
+     1
+    ],
+    "E_G": "4",
+    "dQ": 16,
+    "within_bound": false
+   },
+   "excess_over_bound": "2"
+  }
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "uniform_fill_ADV": 2,
+ "uniform_price": 10,
+ "serial_fill_by_arrival_order": {
+  "SHA": 0,
+  "SAH": 4,
+  "HSA": 0,
+  "HAS": 0,
+  "ASH": 4,
+  "AHS": 4
+ },
+ "serial_fill_set": [
+  0,
+  4
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "fixture_order": "buy 7 @ 32 against a victim sell of 7 at the reference",
+ "channel_order": "buy 9 @ 54 on the channel book",
+ "rows": [
+  {
+   "tick": "1/32",
+   "fixture_E_G": "7/4",
+   "fixture_C_imm": "0",
+   "channel_E_G": "0",
+   "channel_C_imm": "99/16",
+   "channel_notional": "243/16"
+  },
+  {
+   "tick": "1/16",
+   "fixture_E_G": "7/4",
+   "fixture_C_imm": "0",
+   "channel_E_G": "0",
+   "channel_C_imm": "99/8",
+   "channel_notional": "243/8"
+  },
+  {
+   "tick": "1/8",
+   "fixture_E_G": "7/4",
+   "fixture_C_imm": "0",
+   "channel_E_G": "0",
+   "channel_C_imm": "99/4",
+   "channel_notional": "243/4"
+  },
+  {
+   "tick": "1/4",
+   "fixture_E_G": "7/4",
+   "fixture_C_imm": "0",
+   "channel_E_G": "0",
+   "channel_C_imm": "99/2",
+   "channel_notional": "243/2"
+  },
+  {
+   "tick": "1/2",
+   "fixture_E_G": "7/4",
+   "fixture_C_imm": "0",
+   "channel_E_G": "0",
+   "channel_C_imm": "99",
+   "channel_notional": "243"
+  },
+  {
+   "tick": "1",
+   "fixture_E_G": "7/4",
+   "fixture_C_imm": "0",
+   "channel_E_G": "0",
+   "channel_C_imm": "198",
+   "channel_notional": "486"
+  }
+ ]
+}
